@@ -17,38 +17,34 @@ hi  there,<br><br>I am a mid-career switcher turned software developer. <br>I gr
 [![](https://visitcount.itsvg.in/api?id=ernesttan1976&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## PROJECT 1: MyLangchain, ChatGPT Clone June 2023
-I developed a ChatGPT-like chat bot with ability to upload documents for query by the chatbot.
-Built with Next.JS 13 (full-stack) and Langchain, a library for rapidly developing AI web
-applications, and with Pinecone, a vector database.
-Repo: [https://github.com/ernesttan1976/mylangchain](https://github.com/ernesttan1976/mylangchain)
-Live: [https://mylangchain.vercel.app](https://mylangchain.vercel.app)
+ I developed a ChatGPT-like chat bot with ability to upload documents for query by the chatbot.
+ Built with Next.JS 13 (full-stack) and Langchain, a library for rapidly developing AI web applications, and with Pinecone, a vector database.
+ Repo: [https://github.com/ernesttan1976/mylangchain](https://github.com/ernesttan1976/mylangchain)
+ Live: [https://mylangchain.vercel.app](https://mylangchain.vercel.app)
 
 ## PROJECT 2: Hack Singapore 2023 (Angel Hack) - May 2023
-I built a financial advisory app called “FERO” in a team of 2 developers and 2 UI/UX designers.
-Repo: [https://github.com/ernesttan1976/fero](https://github.com/ernesttan1976/fero)
-Live: [https://fero-financial-advisory-hacksingapore-2023.vercel.app/](https://fero-financial-advisory-hacksingapore-2023.vercel.app/)
-The tech stack used is Next.JS 13 with Mongodb.
+ I built a financial advisory app called “FERO” in a team of 2 developers and 2 UI/UX designers.
+ Repo: [https://github.com/ernesttan1976/fero](https://github.com/ernesttan1976/fero)
+ Live: [https://fero-financial-advisory-hacksingapore-2023.vercel.app/](https://fero-financial-advisory-hacksingapore-2023.vercel.app/)
+ The tech stack used is Next.JS 13 with Mongodb.
 
 ## PROJECT 3: Capstone Project - Super LMS
-Repo: [https://github.com/ernesttan1976/superlmsclient](https://github.com/ernesttan1976/superlmsclient)
-Live: [https://superlms.vercel.app](https://superlms.vercel.app)
-For my capstone project, I built an E-Learning marketplace application (Udemy clone) on the Refine(React)
-dashboard framework frontend, S3 file uploads + Express/Mongodb on the backend. Every company needs to
-implement its own in-house training system. Instructors can upload and arrange their learning material in the
-form of videos. Users can subscribe or purchase videos and chat with OpenAI. It was challenging and very satisfying.
+ For my capstone project, I built an E-Learning marketplace application (Udemy clone) on the Refine(React) dashboard framework frontend, S3 file uploads + Express/Mongodb on the backend. Every company needs to implement its own in-house training system. Instructors can upload and arrange their learning material in the form of videos. Users can subscribe or purchase videos and chat with OpenAI. It was challenging and very satisfying.
+ Repo: [https://github.com/ernesttan1976/superlmsclient](https://github.com/ernesttan1976/superlmsclient)
+ Live: [https://superlms.vercel.app](https://superlms.vercel.app)
 
 ## PROJECT 4: Group Project - National Gallery App
-This was a group project executed with input from the UI/UX team, translated the design from Figma design templates into a responsive web app. Material UI, MERN stack.
-Repo: [https://github.com/ernesttan1976/museum](https://github.com/ernesttan1976/museum)
-Live: [https://museumrender.onrender.com](https://museumrender.onrender.com)
+ This was a group project executed with input from the UI/UX team, translated the design from Figma design templates into a responsive web app. Material UI, MERN stack.
+ Repo: [https://github.com/ernesttan1976/museum](https://github.com/ernesttan1976/museum)
+ Live: [https://museumrender.onrender.com](https://museumrender.onrender.com)
 
 ## PROJECT 5: Trello-clone Project Task Management App
-This was a Kanban board planning tool app built with EJS and Express.JS, eveything on the backend. Able ot upload files to AWS S3.
-Why? Because I love Kanban boards as a project manager.
-Repo: [https://github.com/ernesttan1976/projectmanagementtasktrackingapp](https://github.com/ernesttan1976/projectmanagementtasktrackingapp)
-Live: [https://task-tracker-esd2.onrender.com/](https://task-tracker-esd2.onrender.com/)
+ This was a Kanban board planning tool app built with EJS and Express.JS, eveything on the backend. Able ot upload files to AWS S3.
+ Why? Because I love Kanban boards as a project manager. I wanted to see if I could build some of that functionality.
+ Repo: [https://github.com/ernesttan1976/projectmanagementtasktrackingapp](https://github.com/ernesttan1976/projectmanagementtasktrackingapp)
+ Live: [https://task-tracker-esd2.onrender.com/](https://task-tracker-esd2.onrender.com/)
 
 ## PROJECT 6: Candy Crush-clone
-This was pure fun! And it was my first project ever. I used assets from the Candy Crush fan website, sprites and sound effects to replicate some functionality of the Candy Crush game. Built with plain Javascript.
-Repo: [https://github.com/ernesttan1976/candycrush](https://github.com/ernesttan1976/candycrush)
-Live: [https://ernesttan1976.github.io/candycrush/](https://ernesttan1976.github.io/candycrush/)
+ This was pure fun! My kids enjoyed playing it. And it was my first project ever. I used assets from the Candy Crush fan website, sprites and sound effects. Built with plain Javascript.
+ Repo: [https://github.com/ernesttan1976/candycrush](https://github.com/ernesttan1976/candycrush)
+ Live: [https://ernesttan1976.github.io/candycrush/](https://ernesttan1976.github.io/candycrush/)
