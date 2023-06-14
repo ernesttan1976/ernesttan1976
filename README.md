@@ -38,8 +38,7 @@ hi  there,<br><br>I am a mid-career switcher turned software developer. <br>I gr
 - Live: [https://museumrender.onrender.com](https://museumrender.onrender.com)
 
 ## PROJECT 5: Trello-clone Project Task Management App
-- This was a Kanban board planning tool app built with EJS and Express.JS, eveything on the backend. Able ot upload files to AWS S3.
-- Why? Because Kanban board are great tools for a project team. I wanted to see if I could build some of that functionality.
+- This was a Kanban board planning tool app built with EJS and Express.JS, eveything on the backend. Able to upload files to AWS S3. Why? Because Kanban board are great tools for a project team. I wanted to see if I could build some of that functionality.
 - Repo: [https://github.com/ernesttan1976/projectmanagementtasktrackingapp](https://github.com/ernesttan1976/projectmanagementtasktrackingapp)
 - Live: [https://task-tracker-esd2.onrender.com/](https://task-tracker-esd2.onrender.com/)
 
