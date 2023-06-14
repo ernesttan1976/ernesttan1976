@@ -25,7 +25,7 @@ hi  there,<br><br>I am a mid-career switcher turned software developer. <br>I gr
 ## PROJECT 2: Hack Singapore 2023 (Angel Hack) - May 2023
 - I built a financial advisory app called “FERO” in a team of 2 developers and 2 UI/UX designers. The tech stack used is Next.JS 13 with Mongodb.
 - Repo: [https://github.com/ernesttan1976/fero](https://github.com/ernesttan1976/fero)
-- Live: [https://fero-financial-advisory-hacksingapore-2023.vercel.app/](https://fero-financial-advisory-hacksingapore-2023.vercel.app/)
+- Live: [https://fero-financial-advisory-hack-singapore-2023.vercel.app/](https://fero-financial-advisory-hack-singapore-2023.vercel.app/)
 
 ## PROJECT 3: Capstone Project - Super LMS
 - For my capstone project, I built an E-Learning marketplace application (Udemy clone) on the Refine(React) dashboard framework frontend, S3 file uploads + Express/Mongodb on the backend. Every company needs to implement its own in-house training system. Instructors can upload and arrange their learning material in the form of videos. Users can subscribe or purchase videos and chat with OpenAI. It was challenging and very satisfying.
